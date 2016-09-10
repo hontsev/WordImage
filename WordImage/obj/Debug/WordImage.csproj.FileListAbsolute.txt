@@ -1,0 +1,15 @@
+E:\CProjects\WordImage\WordImage\bin\Debug\WordImage.exe.config
+E:\CProjects\WordImage\WordImage\bin\Debug\WordImage.exe
+E:\CProjects\WordImage\WordImage\bin\Debug\WordImage.pdb
+E:\CProjects\WordImage\WordImage\obj\Debug\WordImage.csprojResolveAssemblyReference.cache
+E:\CProjects\WordImage\WordImage\obj\Debug\WordImage.Form1.resources
+E:\CProjects\WordImage\WordImage\obj\Debug\WordImage.Properties.Resources.resources
+E:\CProjects\WordImage\WordImage\obj\Debug\WordImage.csproj.GenerateResource.Cache
+E:\CProjects\WordImage\WordImage\obj\Debug\WordImage.exe
+E:\CProjects\WordImage\WordImage\obj\Debug\WordImage.pdb
+E:\CProjects\WordImage\WordImage\bin\Debug\NUniversalCharDet.dll
+E:\CProjects\WordImage\WordImage\bin\Debug\NUniversalCharDet.pdb
+E:\CProjects\WordImage\WordImage\bin\Debug\JiebaNet.Segmenter.dll
+E:\CProjects\WordImage\WordImage\bin\Debug\Newtonsoft.Json.dll
+E:\CProjects\WordImage\WordImage\bin\Debug\JiebaNet.Segmenter.pdb
+E:\CProjects\WordImage\WordImage\bin\Debug\Newtonsoft.Json.xml
